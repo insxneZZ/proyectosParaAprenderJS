@@ -1,0 +1,12 @@
+Comentarios en CSS ->
+
+/* */
+
+* Menlo en una fuente exclusiba de MacOS, utilizo estas fuentes como alternativa.
+
+monospace significa que todos los caracteres son del mismo ancho, sin importar si es una letra o un número.
+
+Poner siempre antes de ponerme a picar el link al css y el scrip al js.
+
+Las funciones en JS se guardan en memoria, por lo que se pueden llamar antes de declararlas.
+
